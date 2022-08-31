@@ -46,7 +46,7 @@ Note that this record is only for dog lovers that hit the like button on Lakelan
   
 - Dog lovers sentiment seem to agree with the ratings of the dog poster.
 
- -It appears that if the dog rating is very low or below 10, it’s more likely to be retweeted and liked less by dog lovers.
+- It appears that if the dog rating is very low or below 10, it’s more likely to be retweeted and liked less by dog lovers.
 
 
 
